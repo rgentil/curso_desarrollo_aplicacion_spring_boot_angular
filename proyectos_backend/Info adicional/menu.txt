@@ -1,0 +1,18 @@
+<div style="text-align:center;font-size:xx-large" >
+    <ul class="nav nav-tabs">
+      <li class="nav-item">
+        <a class="nav-link" >Acceso</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link"   >Consultar Pedidos</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" >Procesar Pedido</a>
+      </li>
+  
+    </ul>
+  </div>
+  <div>
+     <router-outlet></router-outlet> 
+  
+  </div>
